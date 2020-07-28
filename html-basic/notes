@@ -1,0 +1,16 @@
+structure of HTML doc:
+	<!DOCTYPE html>
+	<html>
+		<head>
+			<title>MY-PAGE!!</title>
+		</head>
+			
+		<body>
+			<h1>CONTENT OF PAGE !!! </h1>
+		</body>
+	</html>
+
+VS-CODE hack ::
+	1. it comes with a inbuilt pacdkage called "emmet", if i just type tag name ex: br, it shows
+	   intellisense and when hit enter on that , it also autocompletes
+	2. when type exclamation mark '!' , vscode gives option to generate the above html structure
